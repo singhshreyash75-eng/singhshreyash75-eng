@@ -97,6 +97,7 @@ Every repository here represents another step in my continuous learning journey.
 * 💻 Personal Cybersecurity Projects
 * 📖 Study Resources & Documentation
 * AI security based concepts
+* AI Red teaming
 
 ---
 
