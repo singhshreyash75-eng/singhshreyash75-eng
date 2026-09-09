@@ -1,144 +1,117 @@
-<div align="center">
+👋 Hi, I'm Shreyash Singh
 
-# 👋 Hi, I'm Shreyash Singh
+🛡️ Cybersecurity Student | AI Security & AI Red Teaming
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Offensive+Security+Enthusiast;Learning+by+Doing;Building+My+Cybersecurity+Portfolio" />
+I'm a B.Tech CSE student at UPES specializing in Cybersecurity, with a growing focus on AI Security, AI Red Teaming, and Offensive Security.
 
-<br>
+My current goal is to understand how modern AI-powered applications can be tested, attacked, evaluated, and secured — from LLM applications and RAG systems to AI agents and their surrounding infrastructure.
 
-<img src="https://komarev.com/ghpvc/?username=singhshreyash75-eng&label=Profile%20Views&color=00ff99&style=for-the-badge" />
 
-</div>
+🎯 CURRENT FOCUS
 
----
+• 🤖 AI Security
+• 🔴 AI Red Teaming
+• 🧠 LLM Security
+• 🕸️ AI / Agent Security
+• 📚 RAG Security
+• ⚔️ Adversarial Testing & Security Evaluation
+• 🌐 Web & API Security
+• 🔍 Reconnaissance & OSINT
+• ⚙️ Security Automation
+• 🐧 Linux & Networking
 
-# 👨‍💻 About Me
+My broader offensive-security foundation supports my transition into specialized AI security research and testing.
 
-🎓 I'm a 2nd year **Computer Science student specializing in Cybersecurity**, driven by a passion for **Ethical Hacking, Penetration Testing, and Offensive Security**.
 
-This GitHub is my personal learning portfolio where I document my journey through structured notes, hands-on labs, security tools, automation scripts, and personal projects. I believe that practical experience, curiosity, and consistency are the foundation of becoming a skilled security professional.
+🚀 PROJECTS
 
-Every repository here represents another step in my continuous learning journey.
+🔎 ReconPilot
 
----
+A modular reconnaissance platform that automates DNS, HTTP, SSL, Nmap, OSINT and technology discovery into a unified security workflow.
 
-# 🎯 Current Focus
+🌐 Digital Footprint Tracer
 
-* 🌐 Web Application Security
-* 🛡️ Penetration Testing
-* 🐧 Linux
-* 🌍 Network Security
-* 🔍 Reconnaissance & Enumeration
-* ⚡ Vulnerability Assessment
-* 🚩 Capture The Flag (CTF) Labs
-* 📚 Security Research & Documentation
-* AI security/Red teaming
-* Defensive security basics
-* Automation in cybersecurity
+A multi-provider OSINT platform for discovering and analyzing public digital identities, activity and network infrastructure.
 
----
+🔐 AI Security Projects
 
-# 💻 Tech Stack
+Currently exploring and building security tooling around:
 
-<div align="center">
+• LLM security evaluation
+• AI application attack surfaces
+• RAG security
+• AI agent security
+• Tool / function security
+• Adversarial testing
+• AI security automation
 
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash,c,python,vscode,markdown,html,css,mysql,docker" />
 
-</div>
+🧠 SECURITY INTERESTS
 
----
+My long-term specialization is:
 
-# 🛡️ Security Toolkit
+Cybersecurity → Offensive Security → AI Security → AI Red Teaming
 
-<div align="center">
+I'm particularly interested in security problems created by the increasing use of LLMs, autonomous agents, RAG systems, external tools, APIs and AI-driven workflows.
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+🛠️ TECHNICAL STACK
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+SECURITY
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+Nmap • Burp Suite • Wireshark • DNS Enumeration • OSINT
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+PROGRAMMING
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+Python • C • Shell
 
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+PLATFORMS & TOOLS
 
-<img src="https://img.shields.io/badge/ExploitDB-CC0000?style=for-the-badge"/>
+Linux • Git • GitHub • VS Code
 
-<img src="https://img.shields.io/badge/CVE-8B0000?style=for-the-badge"/>
+SECURITY AREAS
 
-<img src="https://img.shields.io/badge/Web_Security-2E8B57?style=for-the-badge"/>
+Reconnaissance • Web Security • Network Security
+AI Security • LLM Security • AI Red Teaming
 
-<img src="https://img.shields.io/badge/Penetration_Testing-6A0DAD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Reconnaissance-006400?style=for-the-badge"/>
+📚 LEARNING
 
-<img src="https://img.shields.io/badge/Enumeration-2F4F4F?style=for-the-badge"/>
+• TryHackMe
+• Cisco Networking Academy
+• Hands-on security labs
+• Security research & documentation
+• AI security research
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+TryHackMe:
+https://tryhackme.com/p/singhshreyash75
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+Current achievement:
+TryHackMe Top 10% (if still current)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
+📈 WHAT I'M BUILDING TOWARD
 
----
+I'm working toward building a unified AI Security / AI Red Teaming platform that can help evaluate the security of AI-powered applications across different layers of the AI stack.
 
-# 📚 What You'll Find Here
+The long-term focus is on moving beyond simple prompt testing toward:
 
-* 📝 Structured Cybersecurity Notes
-* 🚩 TryHackMe Learning & Write-ups
-* 🧪 Hands-on Labs & Practical Exercises
-* ⚙️ Security Scripts & Automation
-* 💻 Personal Cybersecurity Projects
-* 📖 Study Resources & Documentation
-* AI security based concepts
-* AI Red teaming
+AI Attack Surface → Security Evaluation → Agent Security → Risk Analysis → Continuous Security Testing
 
----
 
-# 🚀 Currently Learning
+🤝 LET'S CONNECT
 
-* Web Application Security
-* Linux & System Administration
-* Burp Suite
-* Nmap
-* Network Security
-* Enumeration Methodologies
-* Vulnerability Assessment
-* Basic Exploitation Techniques
-* Scripting & Automation
+LinkedIn:
+https://www.linkedin.com/in/shreyash-singh-779016395/
 
----
+GitHub:
+https://github.com/singhshreyash75-eng
 
-# 🌐 Learning Platforms
+TryHackMe:
+https://tryhackme.com/p/singhshreyash75
 
-* 🚩 TryHackMe
-* 📖 Cisco Networking Academy
-* 💻 GitHub
 
----
+💭 PHILOSOPHY
 
-# 📫 Connect With Me
+Learn. Build. Break. Understand. Secure.
 
-* **GitHub:** https://github.com/singhshreyash75-eng
-* **LinkedIn:**https://www.linkedin.com/in/shreyash-singh-779016395/
-* Tryhackme : https://tryhackme.com/p/singhshreyash75
-
----
-
-<div align="center">
-
-## 💭 Philosophy
-
-> **"Learn. Practice. Document. Improve. Repeat."**
-
-*"Security is a journey of continuous learning, and every repository here reflects another step forward."*
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
