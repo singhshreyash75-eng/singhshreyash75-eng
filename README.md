@@ -1,24 +1,152 @@
-👋 Hi, I'm Shreyash Singh
+# 👋 Hi, I'm Shreyash Singh
 
-🛡️ Cybersecurity Student | AI Security & AI Red Teaming
+### 🛡️ Cybersecurity Student | AI Security & AI Red Teaming
 
-I'm a B.Tech CSE student at UPES specializing in Cybersecurity, with a growing focus on AI Security, AI Red Teaming, and Offensive Security.
+I'm a B.Tech CSE student at UPES specializing in Cybersecurity, with a growing focus on **AI Security, AI Red Teaming, and Offensive Security**.
 
-My current goal is to understand how modern AI-powered applications can be tested, attacked, evaluated, and secured — from LLM applications and RAG systems to AI agents and their surrounding infrastructure.
+My current goal is to understand how modern AI-powered applications can be **tested, attacked, evaluated, and secured** — from LLM applications and RAG systems to AI agents and their surrounding infrastructure.
 
+---
 
-🎯 CURRENT FOCUS
+## 🎯 Current Focus
 
-• 🤖 AI Security
-• 🔴 AI Red Teaming
-• 🧠 LLM Security
-• 🕸️ AI / Agent Security
-• 📚 RAG Security
-• ⚔️ Adversarial Testing & Security Evaluation
-• 🌐 Web & API Security
-• 🔍 Reconnaissance & OSINT
-• ⚙️ Security Automation
-• 🐧 Linux & Networking
+- 🤖 AI Security
+- 🔴 AI Red Teaming
+- 🧠 LLM Security
+- 🕸️ AI / Agent Security
+- 📚 RAG Security
+- ⚔️ Adversarial Testing & Security Evaluation
+- 🌐 Web & API Security
+- 🔍 Reconnaissance & OSINT
+- ⚙️ Security Automation
+- 🐧 Linux & Networking
+
+My broader offensive-security foundation supports my transition into specialized AI security research and testing.
+
+---
+
+## 🚀 Projects
+
+### 🔎 ReconPilot
+
+A modular reconnaissance platform that automates DNS, HTTP, SSL, Nmap, OSINT and technology discovery into a unified security workflow.
+
+### 🌐 Digital Footprint Tracer
+
+A multi-provider OSINT platform for discovering and analyzing public digital identities, activity and network infrastructure.
+
+### 🔐 AI Security Projects
+
+Currently exploring and building security tooling around:
+
+- 🧠 LLM security evaluation
+- 🎯 AI application attack surfaces
+- 📚 RAG security
+- 🤖 AI agent security
+- 🛠️ Tool / function security
+- ⚔️ Adversarial testing
+- ⚙️ AI security automation
+
+---
+
+## 🧠 Security Interests
+
+My long-term specialization is:
+
+**Cybersecurity → Offensive Security → AI Security → AI Red Teaming**
+
+I'm particularly interested in security problems created by the increasing use of:
+
+- LLMs
+- Autonomous agents
+- RAG systems
+- External tools
+- APIs
+- AI-driven workflows
+
+---
+
+## 🛠️ Technical Stack
+
+### 🔐 Security
+
+`Nmap` `Burp Suite` `Wireshark` `DNS Enumeration` `OSINT`
+
+### 💻 Programming
+
+`Python` `C` `Shell`
+
+### 🧰 Platforms & Tools
+
+`Linux` `Git` `GitHub` `VS Code`
+
+### 🛡️ Security Areas
+
+`Reconnaissance` `Web Security` `Network Security`  
+`AI Security` `LLM Security` `AI Red Teaming`
+
+---
+
+## 📚 Learning
+
+- 🎯 TryHackMe
+- Cisco Networking Academy
+- Hands-on security labs
+- Security research & documentation
+- AI security research
+
+### 🚩 TryHackMe
+
+**Profile:**  
+https://tryhackme.com/p/singhshreyash75
+
+**Achievement:**  
+🏆 TryHackMe Top 10% *(if still current)*
+
+---
+
+## 📈 What I'm Building Toward
+
+I'm working toward building a unified **AI Security / AI Red Teaming platform** that can help evaluate the security of AI-powered applications across different layers of the AI stack.
+
+The long-term focus is on moving beyond simple prompt testing toward:
+
+**🔍 AI Attack Surface → 🧪 Security Evaluation → 🤖 Agent Security → 📊 Risk Analysis → 🔄 Continuous Security Testing**
+
+---
+
+## 🎯 Long-Term Direction
+
+**Cybersecurity**  
+↓  
+**Offensive Security**  
+↓  
+**AI Security**  
+↓  
+**AI Red Teaming**  
+↓  
+**Agentic AI Security**
+
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/shreyash-singh-779016395/
+
+🐙 **GitHub:**  
+https://github.com/singhshreyash75-eng
+
+🚩 **TryHackMe:**  
+https://tryhackme.com/p/singhshreyash75
+
+---
+
+## 💭 Philosophy
+
+> **Learn. Build. Break. Understand. Secure.**
+
+⭐ Thanks for visiting my profile!• 🐧 Linux & Networking
 
 My broader offensive-security foundation supports my transition into specialized AI security research and testing.
 
