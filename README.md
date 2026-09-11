@@ -2,7 +2,7 @@
 
 # Shreyash Singh
 
-### Cybersecurity Student | AI Security & AI Red Teaming
+### Cybersecurity Student | AI Security & AI Red Teaming | Red teaming
 
 B.Tech CSE @ UPES
 
@@ -32,6 +32,7 @@ My foundation is in offensive security, with hands-on work across reconnaissance
 - Security Evaluation & Automation
 - Web / API Security
 - Reconnaissance & OSINT
+- Red teaming
 
 ---
 
