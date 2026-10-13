@@ -113,7 +113,7 @@ LLM Security · RAG Security · Agent Security · AI Threat Modeling · AI Red T
 
 I'm currently developing my skills through hands-on labs, security projects, and research.
 
-- TryHackMe — Top 10%
+- TryHackMe — Top 5%
 - Cisco Networking Academy
 - Security labs and CTFs
 - AI Security research
